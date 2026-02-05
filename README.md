@@ -8,6 +8,7 @@
 - [Visual](#visual)
   - [Drawings](#drawings)
     - [Paper & Colored Pencil](#paper--colored-pencil)
+    - [Paper & Ballpoint Pen](#paper--ballpoint-pen)
     - [Whiteboard & Marker](#whiteboard--marker)
 <!-- - [Textual](#textual)
   - [Literary](#literary)
@@ -28,6 +29,21 @@
     <td width="33.33%" align="center">
       <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:100%; object-fit:cover;"><br>
       <sub><b>Batman v Superman: Dawn of Justice</b></sub>
+    </td>
+    <td width="33.33%" align="center">
+    </td>
+  </tr>
+</table>
+
+### Paper & Ballpoint Pen
+
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center">
+      <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="width:100%; object-fit:cover;"><br>
+      <sub><b>Mount Fuji</b></sub>
+    </td>
+    <td width="33.33%" align="center">
     </td>
     <td width="33.33%" align="center">
     </td>

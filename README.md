@@ -1,8 +1,7 @@
 # Artwork
 
 > ## Welcome My Dear Friend...
-> Hi, I am glad that you have visited here. You can find here some of works that I have previously worked on. I would really like to collaborate with you on any piece of work if youwant. Thanks!!!
-
+> Hi! I’m really glad you visited my art space. You can find some of my work here, and I’d absolutely love to collaborate with you on any of your projects. Thanks!
 <br>
 
 - [Welcome My Dear Friend...](#welcome-my-dear-friend)
@@ -20,7 +19,7 @@
 ### **Drawings**
 ### Paper & Colored Pencil
 
-<table width="66.66%">
+<table width="100%">
   <tr>
     <td width="33.33%" align="center">
       <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="width:100%; object-fit:cover;"><br>
@@ -29,6 +28,8 @@
     <td width="33.33%" align="center">
       <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:100%; object-fit:cover;"><br>
       <sub><b>Batman v Superman: Dawn of Justice</b></sub>
+    </td>
+    <td width="33.33%" align="center">
     </td>
   </tr>
 </table>

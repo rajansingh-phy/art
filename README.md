@@ -75,6 +75,8 @@
       <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="width:100%; object-fit:cover;"><br>
       <sub><b>Self-portrait</b></sub>
     </td>
+    <td width="33.33%" align="center">
+    </td>
   </tr>
 </table>
 

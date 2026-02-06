@@ -24,13 +24,11 @@
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Oppenheimer<br><br></b></sub> -->
-      Oppenheimer
+      </div>
     </td>
     <td width="50%" align="center">
       <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Batman v Superman:<br>Dawn of Justice</b></sub> -->
-      Batman v Superman: Dawn of Justice
+      </div>
   </tr>
 </table>
 
@@ -40,8 +38,7 @@
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Mount Fuji<br><br></b></sub> -->
-      Mount Fuji
+      </div>
     </td>
     <td width="50%" align="center">
   </tr>
@@ -52,44 +49,37 @@
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>The Starry Night<br><br></b></sub> -->
-      The Starry Night
+      </div>
     </td>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Mona Lisa<br><br></b></sub> -->
-      Mona Lisa
+      </div>
     </td>
   </tr>
   <tr>
     </td>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Rick and Morty<br><br></b></sub> -->
-      Rick and Morty
+      </div>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Professor<br>Severus Snape</b></sub> -->
-      Professor Severus Snape
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Self-portrait<br><br></b></sub> -->
-      Self-portrait
+      </div>
     </td>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-6-Doom-Eternal-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Doom-Eternal<br><br></b></sub> -->
-      Doom Eternal
+      </div>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-7-Eiffel-Tower-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <!-- <sub><b>Eiffel-Tower<br><br></b></sub> -->
-      Eiffel Tower
+      </div>
     </td>
     <td width="50%" align="center">
     </td>

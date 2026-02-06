@@ -20,71 +20,34 @@
 ### **Drawings**
 ### Paper & Colored Pencil
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-  </tr>
-</table>
+<div style="display:flex; flex-wrap:nowrap;">
+  <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="width:50%;" />
+  <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:50%;" />
+</div>
 
 ### Paper & Ballpoint Pen
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    </td>
-    <td width="50%" align="center">
-  </tr>
-</table>
+<div style="display:flex; flex-wrap:nowrap;">
+  <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="width:50%;" />
+  <img src="" style="width:50%;" />
+</div>
 
 ### Whiteboard & Marker
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    </td>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    </td>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-6-Doom-Eternal-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-7-Eiffel-Tower-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    </td>
-    <td width="50%" align="center">
-    </td>
-  </tr>
-</table>
+<div style="display:flex; flex-wrap:nowrap;">
+  <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="width:33.33%;" />
+  <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="width:33.33%;" />
+  <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="width:33.33%;" />
+</div>
+<div style="display:flex; flex-wrap:nowrap;">
+  <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="width:33.33%;" />
+  <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="width:33.33%;" />
+  <img src="./visual/drawing/WM-6-Doom-Eternal-1.jpg" style="width:33.33%;" />
+</div>
+<div style="display:flex; flex-wrap:nowrap;">
+  <img src="./visual/drawing/WM-7-Eiffel-Tower-1.jpg" style="width:33.33%;" />
+  <img src="" style="width:33.33%;" />
+  <img src="" style="width:33.33%;" />
+</div>
 
 <!-- ## **Textual**
 ### **Literary**

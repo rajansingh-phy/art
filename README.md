@@ -19,69 +19,61 @@
 ## **Visual**
 ### **Drawings**
 ### Paper & Colored Pencil
-
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
   </tr>
 </table>
 
 ### Paper & Ballpoint Pen
-
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
-    <td width="50%" align="center">
+    <td width="50%" style="text-align: center;">
+      <img src="" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
   </tr>
 </table>
 
 ### Whiteboard & Marker
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
   <tr>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-6-Doom-Eternal-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-6-Doom-Eternal-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="./visual/drawing/WM-7-Eiffel-Tower-1.jpg" style="width:100%; object-fit:contain;"><br>
-      </div>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-7-Eiffel-Tower-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
-    <td width="50%" align="center">
+    <td width="50%" style="text-align: center;">
+      <img src="" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
 </table>

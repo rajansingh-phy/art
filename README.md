@@ -69,6 +69,14 @@
     <td width="50%" style="text-align: center;">
       <img src="./visual/drawing/WM-7-Eiffel-Tower-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-8-Mount-Fuji-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+  </tr>
+  <tr>
+  <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-9-Demon-Slayer:-Kimetsu-no-Yaiba-–-The Movie:-Infinity-Castle-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+  </td>
   </tr>
 </table>
 
@@ -77,3 +85,4 @@
 
 ## **Aural**
 ### **Music** -->
+

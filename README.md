@@ -36,9 +36,6 @@
     <td width="50%" style="text-align: center;">
       <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
-    <td width="50%" style="text-align: center;">
-      <img src="" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    </td>
   </tr>
 </table>
 
@@ -71,9 +68,6 @@
   <tr>
     <td width="50%" style="text-align: center;">
       <img src="./visual/drawing/WM-7-Eiffel-Tower-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    </td>
-    <td width="50%" style="text-align: center;">
-      <img src="" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
 </table>

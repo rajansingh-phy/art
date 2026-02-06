@@ -22,16 +22,13 @@
 
 <table width="100%">
   <tr>
-    <td width="33.33%" align="center">
-      <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="width:100%; object-fit:cover;"><br>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="width:100%; object-fit:contain;"><br>
       <sub><b>Oppenheimer</b></sub>
     </td>
-    <td width="33.33%" align="center">
-      <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:100%; object-fit:cover;"><br>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:100%; object-fit:contain;"><br>
       <sub><b>Batman v Superman: Dawn of Justice</b></sub>
-    </td>
-    <td width="33.33%" align="center">
-    </td>
   </tr>
 </table>
 
@@ -39,43 +36,42 @@
 
 <table width="100%">
   <tr>
-    <td width="33.33%" align="center">
-      <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="width:100%; object-fit:cover;"><br>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="width:100%; object-fit:contain;"><br>
       <sub><b>Mount Fuji</b></sub>
     </td>
-    <td width="33.33%" align="center">
-    </td>
-    <td width="33.33%" align="center">
-    </td>
+    <td width="50%" align="center">
   </tr>
 </table>
 
 ### Whiteboard & Marker
 <table width="100%">
   <tr>
-    <td width="33.33%" align="center">
-      <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="width:100%; object-fit:cover;"><br>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="width:100%; object-fit:contain;"><br>
       <sub><b>The Starry Night</b></sub>
     </td>
-    <td width="33.33%" align="center">
-      <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="width:100%; object-fit:cover;"><br>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="width:100%; object-fit:contain;"><br>
       <sub><b>Mona Lisa</b></sub>
-    </td>
-    <td width="33.33%" align="center">
-      <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="width:100%; object-fit:cover;"><br>
-      <sub><b>Rick and Morty</b></sub>
     </td>
   </tr>
   <tr>
-    <td width="33.33%" align="center">
-      <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="width:100%; object-fit:cover;"><br>
+    </td>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="width:100%; object-fit:contain;"><br>
+      <sub><b>Rick and Morty</b></sub>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="width:100%; object-fit:contain;"><br>
       <sub><b>Professor Severus Snape</b></sub>
     </td>
-    <td width="33.33%" align="center">
-      <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="width:100%; object-fit:cover;"><br>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="width:100%; object-fit:contain;"><br>
       <sub><b>Self-portrait</b></sub>
     </td>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
     </td>
   </tr>
 </table>

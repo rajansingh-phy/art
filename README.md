@@ -24,11 +24,13 @@
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <sub><b>Oppenheimer<br><br></b></sub>
+      <!-- <sub><b>Oppenheimer<br><br></b></sub> -->
+      Oppenheimer
     </td>
     <td width="50%" align="center">
       <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <sub><b>Batman v Superman:<br>Dawn of Justice</b></sub>
+      <!-- <sub><b>Batman v Superman:<br>Dawn of Justice</b></sub> -->
+      Batman v Superman: Dawn of Justice
   </tr>
 </table>
 
@@ -38,7 +40,8 @@
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/PBP-1-Mount-Fuji-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <sub><b>Mount Fuji<br><br></b></sub>
+      <!-- <sub><b>Mount Fuji<br><br></b></sub> -->
+      Mount Fuji
     </td>
     <td width="50%" align="center">
   </tr>
@@ -49,27 +52,44 @@
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <sub><b>The Starry Night<br><br></b></sub>
+      <!-- <sub><b>The Starry Night<br><br></b></sub> -->
+      The Starry Night
     </td>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <sub><b>Mona Lisa<br><br></b></sub>
+      <!-- <sub><b>Mona Lisa<br><br></b></sub> -->
+      Mona Lisa
     </td>
   </tr>
   <tr>
     </td>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <sub><b>Rick and Morty<br><br></b></sub>
+      <!-- <sub><b>Rick and Morty<br><br></b></sub> -->
+      Rick and Morty
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <sub><b>Professor<br>Severus Snape</b></sub>
+      <!-- <sub><b>Professor<br>Severus Snape</b></sub> -->
+      Professor Severus Snape
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="width:100%; object-fit:contain;"><br>
-      <sub><b>Self-portrait<br><br></b></sub>
+      <!-- <sub><b>Self-portrait<br><br></b></sub> -->
+      Self-portrait
+    </td>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/WM-6-Doom-Eternal-1.jpg" style="width:100%; object-fit:contain;"><br>
+      <!-- <sub><b>Doom-Eternal<br><br></b></sub> -->
+      Doom Eternal
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./visual/drawing/WM-7-Eiffel-Tower-1.jpg" style="width:100%; object-fit:contain;"><br>
+      <!-- <sub><b>Eiffel-Tower<br><br></b></sub> -->
+      Eiffel Tower
     </td>
     <td width="50%" align="center">
     </td>

@@ -7,7 +7,7 @@
 - [Welcome My Dear Friend...](#welcome-my-dear-friend)
 - [Visual](#visual)
   - [Drawings](#drawings)
-    - [Paper & Colored Pencil](#paper--colored-pencil)
+    - [Paper & Pencil](#paper--pencil)
     - [Paper & Ballpoint Pen](#paper--ballpoint-pen)
     - [Whiteboard & Marker](#whiteboard--marker)
 <!-- - [Textual](#textual)
@@ -18,14 +18,19 @@
 
 ## **Visual**
 ### **Drawings**
-### Paper & Colored Pencil
+### Paper & Pencil
 <table width="100%">
   <tr>
     <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/PCP-1-Julius-Robert-Oppenheimer-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      <img src="./visual/drawing/PP-1-Julius-Robert-Oppenheimer-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
     <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/PCP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      <img src="./visual/drawing/PP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/PP-3-Stonehenge-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
 </table>

@@ -6,6 +6,7 @@
 
 - [Welcome My Dear Friend...](#welcome-my-dear-friend)
 - [Visual](#visual)
+  - [UNESCO World Heritage](#unesco-world-heritage)
   - [Drawings](#drawings)
     - [Paper & Pencil](#paper--pencil)
     - [Paper & Ballpoint Pen](#paper--ballpoint-pen)
@@ -15,8 +16,16 @@
 - [Aural](#aural)
   - [Music](#music) -->
 
-
 ## **Visual**
+### **UNESCO World Heritage**
+<table width="25%">
+  <tr>
+    <td width="100%" style="text-align: center;">
+      <img src="./visual/UNESCO-World-Heritage/Afghanistan.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+  </tr>
+</table>
+
 ### **Drawings**
 ### Paper & Pencil
 <table width="100%">

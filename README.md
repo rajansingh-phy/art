@@ -18,10 +18,13 @@
 
 ## **Visual**
 ### **UNESCO World Heritage**
-<table width="25%">
+<table width="100%">
   <tr>
-    <td width="100%" style="text-align: center;">
+    <td width="50%" style="text-align: center;">
       <img src="./visual/UNESCO-World-Heritage/Afghanistan.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/UNESCO-World-Heritage/Albania.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
 </table>

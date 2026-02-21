@@ -15,9 +15,13 @@
   - [Literary](#literary)
 - [Aural](#aural)
   - [Music](#music) -->
+- [Disclaimer](#disclaimer)
+  - [Copyright](#copyright)
+  - [Post-Processing](#post-processing)
 
 ## **Visual**
 ### **UNESCO World Heritage**
+> The source of the reference images used for drawing can be found on the official website of [UNESCO World Heritage](https://whc.unesco.org/en/list/)
 <table width="100%">
   <tr>
     <td width="50%" style="text-align: center;">
@@ -97,9 +101,15 @@
   </tr>
 </table>
 
+
 <!-- ## **Textual**
 ### **Literary**
 
 ## **Aural**
 ### **Music** -->
 
+## Disclaimer
+### Copyright
+> The artworks in this repository are original hand-crafted works by me. Some of the artworks were made using publicly available online sources as references. I do not claim ownership of the original reference source, and all rights belong to their respective copyright holders.
+### Post-Processing
+> The artworks in this repository are recorded using my personal device and may have undergone basic post-processing adjustments for clarity and presentation purposes only. No commercial use is intended.

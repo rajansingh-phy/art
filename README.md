@@ -21,14 +21,17 @@
 
 ## **Visual**
 ### **UNESCO World Heritage**
-> The source of the reference images used for drawing can be found on the official website of [UNESCO World Heritage](https://whc.unesco.org/en/list/)
+> The source of the reference images used for drawing can be found on the official website of the [UNESCO World Heritage Convention](https://whc.unesco.org/en/list/)
 <table width="100%">
   <tr>
-    <td width="50%" style="text-align: center;">
+    <td width="33.33%" style="text-align: center;">
       <img src="./visual/UNESCO-World-Heritage/Afghanistan.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
-    <td width="50%" style="text-align: center;">
+    <td width="33.33%" style="text-align: center;">
       <img src="./visual/UNESCO-World-Heritage/Albania.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+    <td width="33.33%" style="text-align: center;">
+      <img src="./visual/UNESCO-World-Heritage/Algeria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
 </table>

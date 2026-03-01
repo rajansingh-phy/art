@@ -16,6 +16,7 @@
 - [Aural](#aural)
   - [Music](#music) -->
 - [Disclaimer](#disclaimer)
+  - [A.I. Use Policy](#ai-use-policy)
   - [Copyright](#copyright)
   - [Post-Processing](#post-processing)
 
@@ -115,7 +116,9 @@
 ### **Music** -->
 
 ## Disclaimer
+### A.I. Use Policy
+> I know that A.I. might help in "democratizing" the art, but personally, I don't use it in any of my artworks and never will. 
 ### Copyright
 > The artworks in this repository are original hand-crafted works by me. Some of the artworks were made using publicly available online sources as references. I do not claim ownership of the original reference source, and all rights belong to their respective copyright holders.
 ### Post-Processing
-> The artworks in this repository are recorded using my personal device and may have undergone basic post-processing adjustments for clarity and presentation purposes only. No commercial use is intended.
+> The artworks in this repository are recorded using my personal device and some of them may have undergone basic post-processing adjustments for clarity and presentation purposes only. No commercial use is intended.

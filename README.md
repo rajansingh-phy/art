@@ -41,6 +41,9 @@
     <td width="33.33%" style="text-align: center;">
       <img src="./visual/UNESCO-World-Heritage/Angola.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
+    <td width="33.33%" style="text-align: center;">
+      <img src="./visual/UNESCO-World-Heritage/Antigua-and-Barbuda.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
   </tr>
 </table>
 

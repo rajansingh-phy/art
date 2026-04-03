@@ -45,6 +45,11 @@
       <img src="./visual/UNESCO-World-Heritage/Antigua-and-Barbuda.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
+  </tr> 
+    <td width="33.33%" style="text-align: center;">
+      <img src="./visual/UNESCO-World-Heritage/Argentina.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+  </tr>
 </table>
 
 ### **Drawings**

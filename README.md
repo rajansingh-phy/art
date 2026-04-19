@@ -49,6 +49,9 @@
     <td width="33.33%" style="text-align: center;">
       <img src="./visual/UNESCO-World-Heritage/Argentina.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
+    <td width="33.33%" style="text-align: center;">
+      <img src="./visual/UNESCO-World-Heritage/Armenia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
   </tr>
 </table>
 

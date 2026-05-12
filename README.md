@@ -23,6 +23,11 @@
 ## **Visual**
 ### **UNESCO World Heritage**
 > The source of the reference images used for drawing can be found on the official website of the [UNESCO World Heritage Convention](https://whc.unesco.org/en/list/)
+>
+> **Constraints:**
+> 1. No eraser used
+> 1. Only HB pencil used
+
 <table width="100%">
   <tr>
     <td width="33.33%" style="text-align: center;">
@@ -56,6 +61,10 @@
       <img src="./visual/UNESCO-World-Heritage/Australia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
+  </tr> 
+    <td width="33.33%" style="text-align: center;">
+      <img src="./visual/UNESCO-World-Heritage/Austria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
 </table>
 
 ### **Drawings**

@@ -26,6 +26,8 @@ Awestruck and motivated by the sheer determination of humans to create and prese
         Minaret and Archaeological Remains of Jam</b><br>
         (c. 1190 CE)
     </td>
+  </tr>
+  <tr>
     <td width="25%" style="text-align: center;">
       <img src="./Albania.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
@@ -44,6 +46,8 @@ Awestruck and motivated by the sheer determination of humans to create and prese
         Djémila</b><br>
         (96 - 98 CE)
     </td>
+  </tr>
+  <tr>
     <td width="25%" style="text-align: center;">
       <img src="./Andorra.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
@@ -62,6 +66,8 @@ Awestruck and motivated by the sheer determination of humans to create and prese
         Mbanza Kongo, Vestiges of the Capital of the former Kingdom of Kongo</b><br>
         (c. 1390 CE)
     </td>
+  </tr>
+  <tr>
     <td width="25%" style="text-align: center;">
       <img src="./Antigua-and-Barbuda.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
@@ -80,6 +86,8 @@ Awestruck and motivated by the sheer determination of humans to create and prese
         Qhapaq Ñan, Andean Road System</b><br>
         (c. 501 - 1525 CE)
     </td>
+  </tr>
+  <tr>
     <td width="25%" style="text-align: center;">
       <img src="./Armenia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
@@ -98,6 +106,8 @@ Awestruck and motivated by the sheer determination of humans to create and prese
         Macquarie Island</b><br>
         (c. 600000 BCE)
     </td>
+  </tr>
+  <tr>
     <td width="25%" style="text-align: center;">
       <img src="./Austria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>

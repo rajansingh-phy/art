@@ -33,42 +33,42 @@ The source of the reference images used for drawing can be found on the official
   <table width="100%">
     <tr>
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Afghanistan.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Afghanistan.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Albania.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Albania.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Algeria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Algeria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
     </tr> 
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Andorra.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Andorra.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Angola.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Angola.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Antigua-and-Barbuda.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Antigua-and-Barbuda.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
     </tr>
     </tr> 
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Argentina.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Argentina.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Armenia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Armenia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Australia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Australia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
     </tr>
     </tr> 
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Austria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Austria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
       <td width="33.33%" style="text-align: center;">
-        <img src="./visual/UNESCO-World-Heritage/Azerbaijan.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+        <img src="./visual/UNESCO-World-Heritage/A/Azerbaijan.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
   </table>
 </details>

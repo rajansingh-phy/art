@@ -24,10 +24,7 @@
 ### **UNESCO World Heritage**
 > The source of the reference images used for drawing can be found on the official website of the [UNESCO World Heritage Convention](https://whc.unesco.org/en/list/)
 >
-> **Constraints:**
-> 1. No ruler used
-> 1. No eraser used
-> 1. Only HB pencil used
+Main page for more details and drawings can be found [here](./visual/UNESCO-World-Heritage/README.md).
 
 <table width="100%">
   <tr>

@@ -70,6 +70,9 @@ The source of the reference images used for drawing can be found on the official
       <td width="33.33%" style="text-align: center;">
         <img src="./visual/UNESCO-World-Heritage/A/Azerbaijan.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
+      <td width="33.33%" style="text-align: center;">
+        <img src="./visual/UNESCO-World-Heritage/B/Bahrain.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
   </table>
 </details>
 

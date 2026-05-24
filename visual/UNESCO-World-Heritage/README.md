@@ -24,7 +24,7 @@ To learn and improve my skills following guidelines are abided:
     &nbsp;&nbsp;&nbsp;&nbsp;<strong>Constraints:</strong><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. No ruler used<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. No eraser used<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Only HB pencil used
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Only <strong>HB</strong> pencil used
   </summary>
 
   <table width="100%">
@@ -144,8 +144,23 @@ To learn and improve my skills following guidelines are abided:
 <details>
   <summary>
     <span style="font-size: 24px; font-weight: bold;">B</span><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Medium: </strong>TBD<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Medium: </strong>Paper and Pencil<br>
     &nbsp;&nbsp;&nbsp;&nbsp;<strong>Constraints:</strong><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TBD<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. No ruler used<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. No eraser used<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Only <strong>2H</strong> and <strong>10B</strong> pencil used
   </summary>
+
+  <table width="100%">
+    <tr>
+      <td width="25%" style="text-align: center;">
+        <img src="./B/Bahrain.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
+      <td width="25%" style="vertical-align: center;">
+          <b>Bahrain</b><br>
+          Dilmun Burial Mounds</b><br>
+          (c. 2200 - 1750 BCE)
+      </td>
+    </tr>
+  </table>
 </details>

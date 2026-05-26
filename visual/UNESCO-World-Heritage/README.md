@@ -162,5 +162,15 @@ To learn and improve my skills following guidelines are abided:
           (c. 2200 - 1750 BCE)
       </td>
     </tr>
+    <tr>
+      <td width="25%" style="text-align: center;">
+        <img src="./B/Bangladesh.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
+      <td width="25%" style="vertical-align: center;">
+          <b>Bangladesh</b><br>
+          Ruins of the Buddhist Vihara at Paharpur</b><br>
+          (c. 770 - 810 CE)
+      </td>
+    </tr>
   </table>
 </details>

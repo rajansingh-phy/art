@@ -41,7 +41,8 @@ The source of the reference images used for drawing can be found on the official
       <td width="33.33%" style="text-align: center;">
         <img src="./visual/UNESCO-World-Heritage/A/Algeria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
-    </tr> 
+    </tr>
+    <tr>
       <td width="33.33%" style="text-align: center;">
         <img src="./visual/UNESCO-World-Heritage/A/Andorra.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
@@ -52,7 +53,7 @@ The source of the reference images used for drawing can be found on the official
         <img src="./visual/UNESCO-World-Heritage/A/Antigua-and-Barbuda.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
     </tr>
-    </tr> 
+    <tr>
       <td width="33.33%" style="text-align: center;">
         <img src="./visual/UNESCO-World-Heritage/A/Argentina.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
@@ -63,7 +64,7 @@ The source of the reference images used for drawing can be found on the official
         <img src="./visual/UNESCO-World-Heritage/A/Australia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
     </tr>
-    </tr> 
+    <tr>
       <td width="33.33%" style="text-align: center;">
         <img src="./visual/UNESCO-World-Heritage/A/Austria.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
@@ -73,6 +74,12 @@ The source of the reference images used for drawing can be found on the official
       <td width="33.33%" style="text-align: center;">
         <img src="./visual/UNESCO-World-Heritage/B/Bahrain.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
+    </tr>
+    <tr>
+      <td width="33.33%" style="text-align: center;">
+        <img src="./visual/UNESCO-World-Heritage/B/Bangladesh.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
+    </tr>
   </table>
 </details>
 

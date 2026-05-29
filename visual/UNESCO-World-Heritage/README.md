@@ -172,5 +172,15 @@ To learn and improve my skills following guidelines are abided:
           (c. 770 - 810 CE)
       </td>
     </tr>
+    <tr>
+      <td width="25%" style="text-align: center;">
+        <img src="./B/Barbados.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
+      <td width="25%" style="vertical-align: center;">
+          <b>Barbados</b><br>
+          Historic Bridgetown and its Garrison</b><br>
+          (c. 1601 - 1900 CE)
+      </td>
+    </tr>
   </table>
 </details>

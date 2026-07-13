@@ -194,3 +194,27 @@ To learn and improve my skills following guidelines are abided:
     </tr>
   </table>
 </details>
+
+<details>
+  <summary>
+    <span style="font-size: 24px; font-weight: bold;">C</span><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Medium: </strong>Paper and Ballpoint Pen<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;<strong>Constraints:</strong><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. No ruler used<br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Only <strong>Black</strong> ballpoint pen used
+  </summary>
+
+  <table width="100%">
+    <tr>
+      <td width="25%" style="text-align: center;">
+        <img src="./C/Cabo-Verde.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
+      <td width="25%" style="vertical-align: center;">
+          <b>Cabo-Verde</b><br>
+          Cidade Velha, Historic Centre of Ribeira Grande</b><br>
+          (c. 1701)
+      </td>
+    </tr>
+    <tr>
+  </table>
+</details>

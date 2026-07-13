@@ -86,6 +86,11 @@ The source of the reference images used for drawing can be found on the official
         <img src="./visual/UNESCO-World-Heritage/B/Belarus.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
     </tr>
+    <tr>
+      <td width="33.33%" style="text-align: center;">
+        <img src="./visual/UNESCO-World-Heritage/C/Cabo-Verde.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
+    </tr>
   </table>
 </details>
 

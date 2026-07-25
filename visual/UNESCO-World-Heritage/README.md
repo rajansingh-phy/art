@@ -210,9 +210,20 @@ To learn and improve my skills following guidelines are abided:
         <img src="./C/Cabo-Verde.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
       </td>
       <td width="25%" style="vertical-align: center;">
-          <b>Cabo-Verde</b><br>
+          <b>Cabo Verde</b><br>
           Cidade Velha, Historic Centre of Ribeira Grande</b><br>
           (c. 1701)
+      </td>
+    </tr>
+    <tr>
+    <tr>
+      <td width="25%" style="text-align: center;">
+        <img src="./C/Cambodia.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      </td>
+      <td width="25%" style="vertical-align: center;">
+          <b>Cambodia</b><br>
+          Angkor</b><br>
+          (801 - 1500 CE)
       </td>
     </tr>
     <tr>

@@ -105,12 +105,12 @@ The source of the reference images used for drawing can be found on the official
       <img src="./visual/drawing/PP-1-Julius-Robert-Oppenheimer-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
     <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/PP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      <img src="./visual/drawing/PP-3-Stonehenge-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
   <tr>
     <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/PP-3-Stonehenge-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+      <img src="./visual/drawing/PP-2-Batman-v-Superman:-Dawn-of-Justice-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
 </table>
@@ -128,26 +128,18 @@ The source of the reference images used for drawing can be found on the official
 <table width="100%">
   <tr>
     <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    </td>
-    <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    </td>
-    <td width="50%" style="text-align: center;">
       <img src="./visual/drawing/WM-4-Professor-Severus-Snape-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
     <td width="50%" style="text-align: center;">
       <img src="./visual/drawing/WM-6-Doom-Eternal-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-2-Mona-Lisa-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-5-Self-portrait-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
     </td>
   </tr>
   <tr>
@@ -159,9 +151,20 @@ The source of the reference images used for drawing can be found on the official
     </td>
   </tr>
   <tr>
-  <td width="50%" style="text-align: center;">
-      <img src="./visual/drawing/WM-9-Demon-Slayer:-Kimetsu-no-Yaiba-–-The Movie:-Infinity-Castle-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
-  </td>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-1-The-Starry-Night-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+    <td width="50%" style="text-align: center;">
+        <img src="./visual/drawing/WM-9-Demon-Slayer:-Kimetsu-no-Yaiba-–-The Movie:-Infinity-Castle-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" style="text-align: center;">
+      <img src="./visual/drawing/WM-3-Rick-and-Morty-1.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
+    <td width="50%" style="text-align: center;">
+        <img src="./visual/drawing/WM-10-Eiffel-Tower-Mount-Fuji.jpg" style="max-width:100%; height:auto; display:block; margin:0 auto;">
+    </td>
   </tr>
 </table>
 
